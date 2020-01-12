@@ -1,0 +1,293 @@
+MENU OPTIONS
+
+1 - Initialize Deck
+2 - Print Deck
+3 - Shuffle Deck
+4 - Compare with the original
+5 - Print Count
+Enter an option(0 to exit) : 1
+
+MENU OPTIONS
+
+1 - Initialize Deck
+2 - Print Deck
+3 - Shuffle Deck
+4 - Compare with the original
+5 - Print Count
+Enter an option(0 to exit) : 2
+A of Hearts
+2 of Hearts
+3 of Hearts
+4 of Hearts
+5 of Hearts
+6 of Hearts
+7 of Hearts
+8 of Hearts
+9 of Hearts
+10 of Hearts
+J of Hearts
+Q of Hearts
+K of Hearts
+A of Diamonds
+2 of Diamonds
+3 of Diamonds
+4 of Diamonds
+5 of Diamonds
+6 of Diamonds
+7 of Diamonds
+8 of Diamonds
+9 of Diamonds
+10 of Diamonds
+J of Diamonds
+Q of Diamonds
+K of Diamonds
+A of Spades
+2 of Spades
+3 of Spades
+4 of Spades
+5 of Spades
+6 of Spades
+7 of Spades
+8 of Spades
+9 of Spades
+10 of Spades
+J of Spades
+Q of Spades
+K of Spades
+A of Clubs
+2 of Clubs
+3 of Clubs
+4 of Clubs
+5 of Clubs
+6 of Clubs
+7 of Clubs
+8 of Clubs
+9 of Clubs
+10 of Clubs
+J of Clubs
+Q of Clubs
+K of Clubs
+
+MENU OPTIONS
+
+1 - Initialize Deck
+2 - Print Deck
+3 - Shuffle Deck
+4 - Compare with the original
+5 - Print Count
+Enter an option(0 to exit) : 3
+
+MENU OPTIONS
+
+1 - Initialize Deck
+2 - Print Deck
+3 - Shuffle Deck
+4 - Compare with the original
+5 - Print Count
+Enter an option(0 to exit) : 2
+A of Hearts
+A of Spades
+2 of Hearts
+2 of Spades
+3 of Hearts
+3 of Spades
+4 of Hearts
+4 of Spades
+5 of Hearts
+5 of Spades
+6 of Hearts
+6 of Spades
+7 of Hearts
+7 of Spades
+8 of Hearts
+8 of Spades
+9 of Hearts
+9 of Spades
+10 of Hearts
+10 of Spades
+J of Hearts
+J of Spades
+Q of Hearts
+Q of Spades
+K of Hearts
+K of Spades
+A of Diamonds
+A of Clubs
+2 of Diamonds
+2 of Clubs
+3 of Diamonds
+3 of Clubs
+4 of Diamonds
+4 of Clubs
+5 of Diamonds
+5 of Clubs
+6 of Diamonds
+6 of Clubs
+7 of Diamonds
+7 of Clubs
+8 of Diamonds
+8 of Clubs
+9 of Diamonds
+9 of Clubs
+10 of Diamonds
+10 of Clubs
+J of Diamonds
+J of Clubs
+Q of Diamonds
+Q of Clubs
+K of Diamonds
+K of Clubs
+
+MENU OPTIONS
+
+1 - Initialize Deck
+2 - Print Deck
+3 - Shuffle Deck
+4 - Compare with the original
+5 - Print Count
+Enter an option(0 to exit) : 3
+
+MENU OPTIONS
+
+1 - Initialize Deck
+2 - Print Deck
+3 - Shuffle Deck
+4 - Compare with the original
+5 - Print Count
+Enter an option(0 to exit) : 3
+
+MENU OPTIONS
+
+1 - Initialize Deck
+2 - Print Deck
+3 - Shuffle Deck
+4 - Compare with the original
+5 - Print Count
+Enter an option(0 to exit) : 3
+
+MENU OPTIONS
+
+1 - Initialize Deck
+2 - Print Deck
+3 - Shuffle Deck
+4 - Compare with the original
+5 - Print Count
+Enter an option(0 to exit) : 3
+
+MENU OPTIONS
+
+1 - Initialize Deck
+2 - Print Deck
+3 - Shuffle Deck
+4 - Compare with the original
+5 - Print Count
+Enter an option(0 to exit) : 3
+
+MENU OPTIONS
+
+1 - Initialize Deck
+2 - Print Deck
+3 - Shuffle Deck
+4 - Compare with the original
+5 - Print Count
+Enter an option(0 to exit) : 3
+
+MENU OPTIONS
+
+1 - Initialize Deck
+2 - Print Deck
+3 - Shuffle Deck
+4 - Compare with the original
+5 - Print Count
+Enter an option(0 to exit) : 3
+
+MENU OPTIONS
+
+1 - Initialize Deck
+2 - Print Deck
+3 - Shuffle Deck
+4 - Compare with the original
+5 - Print Count
+Enter an option(0 to exit) : 4
+The deck is same as the original deck
+
+MENU OPTIONS
+
+1 - Initialize Deck
+2 - Print Deck
+3 - Shuffle Deck
+4 - Compare with the original
+5 - Print Count
+Enter an option(0 to exit) : 2
+A of Hearts
+2 of Hearts
+3 of Hearts
+4 of Hearts
+5 of Hearts
+6 of Hearts
+7 of Hearts
+8 of Hearts
+9 of Hearts
+10 of Hearts
+J of Hearts
+Q of Hearts
+K of Hearts
+A of Diamonds
+2 of Diamonds
+3 of Diamonds
+4 of Diamonds
+5 of Diamonds
+6 of Diamonds
+7 of Diamonds
+8 of Diamonds
+9 of Diamonds
+10 of Diamonds
+J of Diamonds
+Q of Diamonds
+K of Diamonds
+A of Spades
+2 of Spades
+3 of Spades
+4 of Spades
+5 of Spades
+6 of Spades
+7 of Spades
+8 of Spades
+9 of Spades
+10 of Spades
+J of Spades
+Q of Spades
+K of Spades
+A of Clubs
+2 of Clubs
+3 of Clubs
+4 of Clubs
+5 of Clubs
+6 of Clubs
+7 of Clubs
+8 of Clubs
+9 of Clubs
+10 of Clubs
+J of Clubs
+Q of Clubs
+K of Clubs
+
+MENU OPTIONS
+
+1 - Initialize Deck
+2 - Print Deck
+3 - Shuffle Deck
+4 - Compare with the original
+5 - Print Count
+Enter an option(0 to exit) : 5
+The deck has been shuffled 8 times.
+
+MENU OPTIONS
+
+1 - Initialize Deck
+2 - Print Deck
+3 - Shuffle Deck
+4 - Compare with the original
+5 - Print Count
+Enter an option(0 to exit) : 0
+Press any key to continue . . .
